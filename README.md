@@ -3,8 +3,8 @@ This repository contains my works done in Applied Data Science with Python Speci
 
 ## Course 1: Introduction to Data Science in Python
 **Goal**: Perform data manipulation, data cleaning and performing basic statistical inference using numpy and pandas.
-- [x] **Final Assessment**: Create the First Web Page  
-[https://gooddee.github.io/Web-Design-for-Everybody/Final-Project.html](https://gooddee.github.io/Web-Design-for-Everybody/Final-Project.html)
+- [x] **Course Files** (including all assignments)
+[https://github.com/GoodDee/Applied-Data-Science-With-Python-Specialization-/tree/main/CourseFile%20Course%201](https://github.com/GoodDee/Applied-Data-Science-With-Python-Specialization-/tree/main/CourseFile%20Course%201)
 
 ## Course 2: Applied Plotting, Charting & Data Representation in Python
 **Goal**: Perform data visualization using matplotlib. This includes basic charting and tweaking the visualization design.
